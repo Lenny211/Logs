@@ -1,0 +1,1700 @@
+RimWorld 1.4.3704 rev896
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RimWorld.VersionControl:LogVersionNumber ()
+Verse.Root:CheckGlobalInit ()
+Verse.Root:Start ()
+Verse.Root_Entry:Start ()
+
+[HugsLib] version 10.0.1
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+HugsLib.HugsLibController:InitializeController ()
+HugsLib.HugsLibController:EarlyInitialize ()
+HugsLib.Core.HugsLibMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+System.Activator:CreateInstance (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[VanillaAchievementsExpanded] version 1.4.8315
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+AchievementsExpanded.AchievementHarmony:.cctor ()
+AchievementsExpanded.AssemblyHandler:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+System.Activator:CreateInstance (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[Interaction Bubbles v2.5] Initialized
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Bubbles.Mod:Log (string)
+Bubbles.Mod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+System.Activator:CreateInstance (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+LWM.DeepStorage.PatchMessage:ApplyWorker (System.Xml.XmlDocument)
+Verse.PatchOperation:Apply (System.Xml.XmlDocument)
+Verse.PatchOperationSequence:ApplyWorker (System.Xml.XmlDocument)
+Verse.PatchOperation:Apply (System.Xml.XmlDocument)
+Verse.PatchOperationFindMod:ApplyWorker (System.Xml.XmlDocument)
+Verse.PatchOperation:Apply (System.Xml.XmlDocument)
+Verse.LoadedModManager:ApplyPatches (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <isTerrain>true</isTerrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_BlackBeeswaxFloor</defName><isTerrain>true</isTerrain><terrain>RB_BlackBeeswaxFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <terrain>RB_BlackBeeswaxFloor</terrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_BlackBeeswaxFloor</defName><isTerrain>true</isTerrain><terrain>RB_BlackBeeswaxFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <isTerrain>true</isTerrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_SteelwaxFloor</defName><isTerrain>true</isTerrain><terrain>RB_SteelwaxFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <terrain>RB_SteelwaxFloor</terrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_SteelwaxFloor</defName><isTerrain>true</isTerrain><terrain>RB_SteelwaxFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <isTerrain>true</isTerrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_WhiteBeeswaxFloor</defName><isTerrain>true</isTerrain><terrain>RB_WhiteBeeswaxFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <terrain>RB_WhiteBeeswaxFloor</terrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_WhiteBeeswaxFloor</defName><isTerrain>true</isTerrain><terrain>RB_WhiteBeeswaxFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <isTerrain>true</isTerrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_RedBeeswaxTileFloor</defName><isTerrain>true</isTerrain><terrain>RB_RedBeeswaxTileFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <terrain>RB_RedBeeswaxTileFloor</terrain> doesn't correspond to any field in type SymbolDef. Context: <KCSG.SymbolDef><defName>RB_RedBeeswaxTileFloor</defName><isTerrain>true</isTerrain><terrain>RB_RedBeeswaxTileFloor</terrain></KCSG.SymbolDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlToObject:ObjectFromXml<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<KCSG.SymbolDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlLoader:DefFromNode (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+Verse.LoadedModManager:ParseAndProcessXML (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Could not resolve cross-reference to RimWorld.TraderKindDef named COMIGO_GrimTrader (wanter=caravanTraderKinds)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DirectXmlCrossRefLoader:TryResolveDef<RimWorld.TraderKindDef> (string,Verse.FailMode,object)
+Verse.DirectXmlCrossRefLoader/WantedRefForList`1<RimWorld.TraderKindDef>:TryResolve (Verse.FailMode)
+Verse.DirectXmlCrossRefLoader/<>c__DisplayClass16_1:<ResolveAllWantedCrossReferences>b__0 (Verse.DirectXmlCrossRefLoader/WantedRef)
+Verse.GenThreading/<>c__DisplayClass7_1`1<Verse.DirectXmlCrossRefLoader/WantedRef>:<ParallelForEach>b__0 (object)
+System.Threading.QueueUserWorkItemCallback:WaitCallback_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.QueueUserWorkItemCallback:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+Translation data for language English has 21 errors. Generate translation report for more info.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.LoadedLanguage:InjectIntoData_AfterImpliedDefs ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_3 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[KCSG] Alpha Bees contains 14 missing symbols.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+KCSG.StartupActions:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_5 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+AlphaMemes Transpiler on Ideo:ExposeData could not find hook
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+AlphaMemes.FuneralFramework_Ideo_ExposeData_Patch/<Transpiler>d__2:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchClassProcessor:ProcessPatchJob (HarmonyLib.PatchJobs`1/Job<System.Reflection.MethodInfo>)
+HarmonyLib.PatchClassProcessor:PatchWithAttributes (System.Reflection.MethodBase&)
+HarmonyLib.PatchClassProcessor:Patch ()
+HarmonyLib.Harmony:<PatchAll>b__10_0 (System.Type)
+HarmonyLib.CollectionExtensions:Do<System.Type> (System.Collections.Generic.IEnumerable`1<System.Type>,System.Action`1<System.Type>)
+HarmonyLib.Harmony:PatchAll (System.Reflection.Assembly)
+AlphaMemes.Main:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_5 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[Clean Pathfinding] The following terrains apply to road attraction:
+ - hex carpet (black)
+ - morbid carpet (black)
+ - fine carpet (black)
+ - hex carpet (slate)
+ - morbid carpet (slate)
+ - fine carpet (slate)
+ - hex carpet (dark grey)
+ - morbid carpet (dark grey)
+ - fine carpet (dark grey)
+ - hex carpet (granite)
+ - morbid carpet (granite)
+ - fine carpet (granite)
+ - hex carpet (sandstone)
+ - morbid carpet (sandstone)
+ - fine carpet (sandstone)
+ - hex carpet (marble)
+ - morbid carpet (marble)
+ - fine carpet (marble)
+ - hex carpet (limestone)
+ - morbid carpet (limestone)
+ - fine carpet (limestone)
+ - hex carpet (light gray)
+ - morbid carpet (light gray)
+ - fine carpet (light gray)
+ - hex carpet (cream)
+ - morbid carpet (cream)
+ - fine carpet (cream)
+ - hex carpet (white)
+ - morbid carpet (white)
+ - fine carpet (white)
+ - hex carpet (pastel orange)
+ - morbid carpet (pastel orange)
+ - fine carpet (pastel orange)
+ - hex carpet (pastel yellow)
+ - morbid carpet (pastel yellow)
+ - fine carpet (pastel yellow)
+ - hex carpet (pastel green)
+ - morbid carpet (pastel green)
+ - fine carpet (pastel green)
+ - hex carpet (pastel blue)
+ - morbid carpet (pastel blue)
+ - fine carpet (pastel blue)
+ - hex carpet (pastel pink)
+ - morbid carpet (pastel pink)
+ - fine carpet (pastel pink)
+ - hex carpet (pastel red)
+ - morbid carpet (pastel red)
+ - fine carpet (pastel red)
+ - hex carpet (orange)
+ - morbid carpet (orange)
+ - fine carpet (orange)
+ - hex carpet (wood brown)
+ - morbid carpet (wood brown)
+ - fine carpet (wood brown)
+ - hex carpet (burnt umber)
+ - morbid carpet (burnt umber)
+ - fine carpet (burnt umber)
+ - hex carpet (dirt brown)
+ - morbid carpet (dirt brown)
+ - fine carpet (dirt brown)
+ - hex carpet (dark brown)
+ - morbid carpet (dark brown)
+ - fine carpet (dark brown)
+ - hex carpet (light brown)
+ - morbid carpet (light brown)
+ - fine carpet (light brown)
+ - hex carpet (subtle brown)
+ - morbid carpet (subtle brown)
+ - fine carpet (subtle brown)
+ - hex carpet (faded brown)
+ - morbid carpet (faded brown)
+ - fine carpet (faded brown)
+ - hex carpet (pale lime)
+ - morbid carpet (pale lime)
+ - fine carpet (pale lime)
+ - hex carpet (mustard)
+ - morbid carpet (mustard)
+ - fine carpet (mustard)
+ - hex carpet (dark olive)
+ - morbid carpet (dark olive)
+ - fine carpet (dark olive)
+ - hex carpet (olive)
+ - morbid carpet (olive)
+ - fine carpet (olive)
+ - hex carpet (subtle viridian)
+ - morbid carpet (subtle viridian)
+ - fine carpet (subtle viridian)
+ - hex carpet (viridian)
+ - morbid carpet (viridian)
+ - fine carpet (viridian)
+ - hex carpet (marsh green)
+ - morbid carpet (marsh green)
+ - fine carpet (marsh green)
+ - hex carpet (muddy green)
+ - morbid carpet (muddy green)
+ - fine carpet (muddy green)
+ - hex carpet (swamp green)
+ - morbid carpet (swamp green)
+ - fine carpet (swamp green)
+ - hex carpet (pine green)
+ - morbid carpet (pine green)
+ - fine carpet (pine green)
+ - hex carpet (forest green)
+ - morbid carpet (forest green)
+ - fine carpet (forest green)
+ - hex carpet (faded green)
+ - morbid carpet (faded green)
+ - fine carpet (faded green)
+ - hex carpet (sage)
+ - morbid carpet (sage)
+ - fine carpet (sage)
+ - hex carpet (green)
+ - morbid carpet (green)
+ - fine carpet (green)
+ - hex carpet (teal)
+ - morbid carpet (teal)
+ - fine carpet (teal)
+ - hex carpet (bright moss)
+ - morbid carpet (bright moss)
+ - fine carpet (bright moss)
+ - hex carpet (moss)
+ - morbid carpet (moss)
+ - fine carpet (moss)
+ - hex carpet (dusk)
+ - morbid carpet (dusk)
+ - fine carpet (dusk)
+ - hex carpet (sky blue)
+ - morbid carpet (sky blue)
+ - fine carpet (sky blue)
+ - hex carpet (marine)
+ - morbid carpet (marine)
+ - fine carpet (marine)
+ - hex carpet (ice blue)
+ - morbid carpet (ice blue)
+ - fine carpet (ice blue)
+ - hex carpet (subtle blue)
+ - morbid carpet (subtle blue)
+ - fine carpet (subtle blue)
+ - hex carpet (blue)
+ - morbid carpet (blue)
+ - fine carpet (blue)
+ - hex carpet (light indigo)
+ - morbid carpet (light indigo)
+ - fine carpet (light indigo)
+ - hex carpet (indigo)
+ - morbid carpet (indigo)
+ - fine carpet (indigo)
+ - hex carpet (grape)
+ - morbid carpet (grape)
+ - fine carpet (grape)
+ - hex carpet (deep purple)
+ - morbid carpet (deep purple)
+ - fine carpet (deep purple)
+ - hex carpet (muted purple)
+ - morbid carpet (muted purple)
+ - fine carpet (muted purple)
+ - hex carpet (subtle purple)
+ - morbid carpet (subtle purple)
+ - fine carpet (subtle purple)
+ - hex carpet (purple)
+ - morbid carpet (purple)
+ - fine carpet (purple)
+ - hex carpet (subtle magenta)
+ - morbid carpet (subtle magenta)
+ - fine carpet (subtle magenta)
+ - hex carpet (magenta)
+ - morbid carpet (magenta)
+ - fine carpet (magenta)
+ - hex carpet (dark mauve)
+ - morbid carpet (dark mauve)
+ - fine carpet (dark mauve)
+ - hex carpet (plum)
+ - morbid carpet (plum)
+ - fine carpet (plum)
+ - hex carpet (burgundy)
+ - morbid carpet (burgundy)
+ - fine carpet (burgundy)
+ - hex carpet (scarlet)
+ - morbid carpet (scarlet)
+ - fine carpet (scarlet)
+ - hex carpet (auburn)
+ - morbid carpet (auburn)
+ - fine carpet (auburn)
+ - hex carpet (subtle red)
+ - morbid carpet (subtle red)
+ - fine carpet (subtle red)
+ - hex carpet (red)
+ - morbid carpet (red)
+ - fine carpet (red)
+ - fine pristine limestone tile
+ - concrete foundation
+ - steel bridge
+ - marble bridge
+ - slate bridge
+ - limestone bridge
+ - granite bridge
+ - sandstone bridge
+ - pristine limestone flagstone
+ - pristine limestone tile
+ - futuristic kemetic tile
+ - kemetic fine pristine limestone tile
+ - kemetic fine marble tile
+ - kemetic fine slate tile
+ - kemetic fine limestone tile
+ - kemetic fine granite tile
+ - kemetic fine sandstone tile
+ - jewish fine marble tile
+ - jewish fine slate tile
+ - jewish fine limestone tile
+ - jewish fine granite tile
+ - jewish fine sandstone tile
+ - fine shintao white carpet
+ - fine shintao indigo carpet
+ - fine shintao burgundy carpet
+ - shintao fine marble tile
+ - shintao fine slate tile
+ - shintao fine limestone tile
+ - shintao fine granite tile
+ - shintao fine sandstone tile
+ - corporate fine marble tile
+ - corporate fine slate tile
+ - corporate fine limestone tile
+ - corporate fine granite tile
+ - corporate fine sandstone tile
+ - hex tile
+ - yellow mindbend carpet
+ - blue mindbend carpet
+ - green mindbend carpet
+ - purple mindbend carpet
+ - diamond mindbend carpet
+ - totemic marble tile
+ - totemic slate tile
+ - totemic limestone tile
+ - totemic granite tile
+ - totemic sandstone tile
+ - totemic boards
+ - spikecore plates
+ - marble spikecore tile
+ - slate spikecore tile
+ - limestone spikecore tile
+ - granite spikecore tile
+ - sandstone spikecore tile
+ - morbid marble tile
+ - morbid slate tile
+ - morbid limestone tile
+ - morbid granite tile
+ - morbid sandstone tile
+ - fine marble tile
+ - fine slate tile
+ - fine limestone tile
+ - fine granite tile
+ - fine sandstone tile
+ - bridge
+ - packed dirt
+ - broken asphalt
+ - marble flagstone
+ - slate flagstone
+ - limestone flagstone
+ - granite flagstone
+ - sandstone flagstone
+ - marble tile
+ - slate tile
+ - limestone tile
+ - granite tile
+ - sandstone tile
+ - gold tile
+ - silver tile
+ - paved tile
+ - concrete
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CleanPathfinding.Setup:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_5 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+LWM Update: stable(ish) 1.4
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+LWM.DeepStorage.ModInit:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_5 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, VCHE_ChemfuelTap, VCHE_ChemfuelDrain, VCHE_DeepchemTap, VCHE_DeepchemDrain, Shelf_WeaponRack, AG_AncientShelf, VFEA_SuperNaniteContainment into Deep Storage
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+LWM.DeepStorage.Settings:MakeAllStorageDeepStorage ()
+LWM.DeepStorage.Settings:DefsLoaded ()
+LWM.DeepStorage.ModInit:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_5 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+PickUpAndHaul.HarmonyPatches:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_5 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+Type FactionDialogFor probably needs a StaticConstructorOnStartup attribute, because it has a field insultTex of type Texture2D. All assets must be loaded in the main thread.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.StaticConstructorOnStartupUtility/<>c__DisplayClass2_0:<ReportProbablyMissingAttributes>b__0 (System.Type)
+System.Threading.Tasks.Parallel/<>c__DisplayClass31_0`2<System.Type, object>:<ForEachWorker>b__0 (int)
+System.Threading.Tasks.Parallel/<>c__DisplayClass17_0`1<object>:<ForWorker>b__1 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:InnerInvokeWithArg (System.Threading.Tasks.Task)
+System.Threading.Tasks.Task/<>c__DisplayClass178_0:<ExecuteSelfReplicating>b__0 (object)
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+MVCF successfully applied 45 patches
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MVCF.Patch:PrintSummary ()
+MVCF.MVCF/<>c:<CollectFeatureData>b__16_0 ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[net.pardeike.rimworld.mods.achtung] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+HugsLib.Utils.HarmonyUtility:LogObsoleteMethodPatchErrors ()
+HugsLib.Utils.HarmonyUtility:LogHarmonyPatchIssueErrors ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[UnlimitedHugs.HugsLib] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+HugsLib.Utils.HarmonyUtility:LogObsoleteMethodPatchErrors ()
+HugsLib.Utils.HarmonyUtility:LogHarmonyPatchIssueErrors ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[OskarPotocki.VFECore] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.MapDeiniter.Deinit
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+HugsLib.Utils.HarmonyUtility:LogObsoleteMethodPatchErrors ()
+HugsLib.Utils.HarmonyUtility:LogHarmonyPatchIssueErrors ()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+CharacterEditor v1.4.1240 initializing...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+updating labels for english...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+bc:a ()
+CharacterEditor.CEditor/a:l ()
+CharacterEditor.CEditor/a:.ctor ()
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<CharacterEditor.CEditor/a> (CharacterEditor.EType)
+CharacterEditor.CEditor/b:.ctor ()
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+loading pawn slot content from file...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/a:d (string)
+CharacterEditor.CEditor/a:l ()
+CharacterEditor.CEditor/a:.ctor ()
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<CharacterEditor.CEditor/a> (CharacterEditor.EType)
+CharacterEditor.CEditor/b:.ctor ()
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+character editor instance created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor:.ctor ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+allowing apparel to be colorable...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+ae:a ()
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+checking editor settings...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/b:a (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+bodysizes genes are active
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+a8:a ()
+CharacterEditor.CEditor/b:a (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+CharacterEditor v1.4.1240 ...done
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor:OnMainMenuInit ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.Init_Patch1 ()
+Verse.UIRoot_Entry:Init ()
+Verse.Root:<Start>b__6_0 ()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[HugsLib] initializing AlmostThere, RunAndGun, Hospitality, Therapy
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+HugsLib.HugsLibController:EnumerateChildMods (bool)
+HugsLib.HugsLibController:LoadReloadInitialize ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+CE is trying to create default parameter lists ...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+creating default parameter list for genes...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<System.Collections.Generic.Dictionary`2<string, q>> (CharacterEditor.EType)
+CharacterEditor.CEditor:b<System.Collections.Generic.Dictionary`2<string, q>> (CharacterEditor.EType)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+547 default entities for genes created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+o:a<q, Verse.GeneDef> (System.Collections.Generic.HashSet`1<Verse.GeneDef>,System.Func`2<Verse.GeneDef, string>,System.Func`2<Verse.GeneDef, q>,string)
+q:d ()
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<System.Collections.Generic.Dictionary`2<string, q>> (CharacterEditor.EType)
+CharacterEditor.CEditor:b<System.Collections.Generic.Dictionary`2<string, q>> (CharacterEditor.EType)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+creating default parameter list for objects...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor:b<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+2362 default entities for objects created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+o:a<p, Verse.ThingDef> (System.Collections.Generic.HashSet`1<Verse.ThingDef>,System.Func`2<Verse.ThingDef, string>,System.Func`2<Verse.ThingDef, p>,string)
+p:h ()
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor:b<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+creating default parameter list for turrets...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor:b<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+19 default entities for turrets created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+o:a<p, Verse.ThingDef> (System.Collections.Generic.HashSet`1<Verse.ThingDef>,System.Func`2<Verse.ThingDef, string>,System.Func`2<Verse.ThingDef, p>,string)
+p:g ()
+CharacterEditor.CEditor/b:b (CharacterEditor.EType)
+CharacterEditor.CEditor/b:a<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor:b<System.Collections.Generic.Dictionary`2<string, p>> (CharacterEditor.EType)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+...lists created
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/a:c ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+CE is trying to apply modified parameters...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/a:b ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+no modifications for genes
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+o:a (string,System.Action`1<string>,string)
+q:c (string)
+CharacterEditor.CEditor/a:b ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+no modifications for objects
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+o:a (string,System.Action`1<string>,string)
+p:c (string)
+CharacterEditor.CEditor/a:b ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+no modifications for lifestages
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+o:a (string,System.Action`1<string>,string)
+r:c (string)
+CharacterEditor.CEditor/a:b ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+...done
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/a:b ()
+CharacterEditor.CEditor:OnMainMenuOnGUI ()
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Loaded file (Scenario) is from version 1.4.3641 rev649, we are running version 1.4.3704 rev896.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.ScribeMetaHeaderUtility:LoadGameDataHeader (Verse.ScribeMetaHeaderUtility/ScribeHeaderMode,bool)
+Verse.GameDataSaveLoader:TryLoadScenario (string,RimWorld.ScenarioCategory,RimWorld.Scenario&)
+RimWorld.ScenarioFiles:RecacheData ()
+RimWorld.ScenarioLister:RecacheData ()
+RimWorld.ScenarioLister:RecacheIfDirty ()
+RimWorld.ScenarioLister/<AllScenarios>d__1:MoveNext ()
+System.Linq.Enumerable:TryGetFirst<RimWorld.Scenario> (System.Collections.Generic.IEnumerable`1<RimWorld.Scenario>,System.Func`2<RimWorld.Scenario, bool>,bool&)
+System.Linq.Enumerable:FirstOrDefault<RimWorld.Scenario> (System.Collections.Generic.IEnumerable`1<RimWorld.Scenario>,System.Func`2<RimWorld.Scenario, bool>)
+HugsLib.Quickstart.QuickstartController:TryGetScenarioByName (string)
+HugsLib.Quickstart.QuickstartController:GetMapGenerationScenario ()
+HugsLib.Quickstart.QuickstartController:InitiateMapGeneration ()
+Verse.ListableOption:DrawOption (UnityEngine.Vector2,single)
+Verse.OptionListingUtility:DrawOptionListing (UnityEngine.Rect,System.Collections.Generic.List`1<Verse.ListableOption>)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.DoMainMenuControls_Patch0 (UnityEngine.Rect,bool)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Could not load reference to Verse.ResearchProjectDef named OilDrilling
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.ScribeExtractor:DefFromNode<Verse.ResearchProjectDef> (System.Xml.XmlNode)
+Verse.Scribe_Defs:Look<Verse.ResearchProjectDef> (Verse.ResearchProjectDef&,string)
+RimWorld.ScenPart_StartingResearch:ExposeData ()
+Verse.ScribeExtractor:SaveableFromNode<RimWorld.ScenPart> (System.Xml.XmlNode,object[])
+Verse.Scribe_Collections:Look<RimWorld.ScenPart> (System.Collections.Generic.List`1<RimWorld.ScenPart>&,bool,string,Verse.LookMode,object[])
+Verse.Scribe_Collections:Look<RimWorld.ScenPart> (System.Collections.Generic.List`1<RimWorld.ScenPart>&,string,Verse.LookMode,object[])
+RimWorld.Scenario:ExposeData ()
+Verse.ScribeExtractor:SaveableFromNode<RimWorld.Scenario> (System.Xml.XmlNode,object[])
+Verse.Scribe_Deep:Look<RimWorld.Scenario> (RimWorld.Scenario&,bool,string,object[])
+Verse.Scribe_Deep:Look<RimWorld.Scenario> (RimWorld.Scenario&,string,object[])
+Verse.GameDataSaveLoader:TryLoadScenario (string,RimWorld.ScenarioCategory,RimWorld.Scenario&)
+RimWorld.ScenarioFiles:RecacheData ()
+RimWorld.ScenarioLister:RecacheData ()
+RimWorld.ScenarioLister:RecacheIfDirty ()
+RimWorld.ScenarioLister/<AllScenarios>d__1:MoveNext ()
+System.Linq.Enumerable:TryGetFirst<RimWorld.Scenario> (System.Collections.Generic.IEnumerable`1<RimWorld.Scenario>,System.Func`2<RimWorld.Scenario, bool>,bool&)
+System.Linq.Enumerable:FirstOrDefault<RimWorld.Scenario> (System.Collections.Generic.IEnumerable`1<RimWorld.Scenario>,System.Func`2<RimWorld.Scenario, bool>)
+HugsLib.Quickstart.QuickstartController:TryGetScenarioByName (string)
+HugsLib.Quickstart.QuickstartController:GetMapGenerationScenario ()
+HugsLib.Quickstart.QuickstartController:InitiateMapGeneration ()
+Verse.ListableOption:DrawOption (UnityEngine.Vector2,single)
+Verse.OptionListingUtility:DrawOptionListing (UnityEngine.Rect,System.Collections.Generic.List`1<Verse.ListableOption>)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.DoMainMenuControls_Patch0 (UnityEngine.Rect,bool)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Some ScenParts had null defs.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+RimWorld.Scenario:ExposeData ()
+Verse.PostLoadIniter:DoAllPostLoadInits ()
+Verse.ScribeLoader:FinalizeLoading ()
+Verse.GameDataSaveLoader:TryLoadScenario (string,RimWorld.ScenarioCategory,RimWorld.Scenario&)
+RimWorld.ScenarioFiles:RecacheData ()
+RimWorld.ScenarioLister:RecacheData ()
+RimWorld.ScenarioLister:RecacheIfDirty ()
+RimWorld.ScenarioLister/<AllScenarios>d__1:MoveNext ()
+System.Linq.Enumerable:TryGetFirst<RimWorld.Scenario> (System.Collections.Generic.IEnumerable`1<RimWorld.Scenario>,System.Func`2<RimWorld.Scenario, bool>,bool&)
+System.Linq.Enumerable:FirstOrDefault<RimWorld.Scenario> (System.Collections.Generic.IEnumerable`1<RimWorld.Scenario>,System.Func`2<RimWorld.Scenario, bool>)
+HugsLib.Quickstart.QuickstartController:TryGetScenarioByName (string)
+HugsLib.Quickstart.QuickstartController:GetMapGenerationScenario ()
+HugsLib.Quickstart.QuickstartController:InitiateMapGeneration ()
+Verse.ListableOption:DrawOption (UnityEngine.Vector2,single)
+Verse.OptionListingUtility:DrawOptionListing (UnityEngine.Rect,System.Collections.Generic.List`1<Verse.ListableOption>)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.DoMainMenuControls_Patch0 (UnityEngine.Rect,bool)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+[HugsLib] Quickstarter generating map with scenario: Crashlanded
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+HugsLib.Quickstart.QuickstartController:InitiateMapGeneration ()
+Verse.ListableOption:DrawOption (UnityEngine.Vector2,single)
+Verse.OptionListingUtility:DrawOptionListing (UnityEngine.Rect,System.Collections.Generic.List`1<Verse.ListableOption>)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.DoMainMenuControls_Patch0 (UnityEngine.Rect,bool)
+(wrapper dynamic-method) RimWorld.MainMenuDrawer:RimWorld.MainMenuDrawer.MainMenuOnGUI_Patch1 ()
+(wrapper dynamic-method) Verse.UIRoot_Entry:Verse.UIRoot_Entry.DoMainMenu_Patch1 (Verse.UIRoot_Entry)
+Verse.UIRoot_Entry:UIRootOnGUI ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.OnGUI_Patch1 (Verse.Root)
+
+Failed to generate a unique precept name:  at 0% uniqueness
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+RimWorld.Precept:GenerateNewName ()
+RimWorld.Precept:RegenerateName ()
+RimWorld.Precept_Ritual:Init (RimWorld.Ideo,RimWorld.FactionDef)
+(wrapper dynamic-method) RimWorld.Ideo:RimWorld.Ideo.AddPrecept_Patch1 (RimWorld.Ideo,RimWorld.Precept,bool,RimWorld.FactionDef,RimWorld.RitualPatternDef)
+AlphaMemes.FuneralFramework_IdeoFoundation_RandomizePrecepts:Postfix (RimWorld.IdeoFoundation,RimWorld.IdeoGenerationParms)
+(wrapper dynamic-method) RimWorld.IdeoFoundation:RimWorld.IdeoFoundation.RandomizePrecepts_Patch1 (RimWorld.IdeoFoundation,bool,RimWorld.IdeoGenerationParms)
+RimWorld.IdeoFoundation_Deity:Init (RimWorld.IdeoGenerationParms)
+RimWorld.IdeoGenerator:GenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionIdeosTracker:ChooseOrGenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionGenerator:NewGeneratedFaction (RimWorld.FactionGeneratorParms)
+(wrapper dynamic-method) RimWorld.FactionGenerator:RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch0 (System.Collections.Generic.List`1<RimWorld.FactionDef>)
+RimWorld.Planet.WorldGenStep_Factions:GenerateFresh (string)
+RimWorld.Planet.WorldGenerator:GenerateWorld (single,string,RimWorld.Planet.OverallRainfall,RimWorld.Planet.OverallTemperature,RimWorld.Planet.OverallPopulation,System.Collections.Generic.List`1<RimWorld.FactionDef>,single)
+HugsLib.Quickstart.QuickstartController:ApplyQuickstartConfiguration ()
+HugsLib.Quickstart.QuickstartController/<>c:<InitiateMapGeneration>b__7_0 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Failed to generate a unique precept name: social festival at 50% uniqueness
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+RimWorld.Precept:GenerateNewName ()
+RimWorld.Precept:RegenerateName ()
+RimWorld.Precept_Ritual:Init (RimWorld.Ideo,RimWorld.FactionDef)
+(wrapper dynamic-method) RimWorld.Ideo:RimWorld.Ideo.AddPrecept_Patch1 (RimWorld.Ideo,RimWorld.Precept,bool,RimWorld.FactionDef,RimWorld.RitualPatternDef)
+(wrapper dynamic-method) RimWorld.IdeoFoundation:RimWorld.IdeoFoundation.RandomizePrecepts_Patch1 (RimWorld.IdeoFoundation,bool,RimWorld.IdeoGenerationParms)
+RimWorld.IdeoFoundation_Deity:Init (RimWorld.IdeoGenerationParms)
+RimWorld.IdeoGenerator:GenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionIdeosTracker:ChooseOrGenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionGenerator:NewGeneratedFaction (RimWorld.FactionGeneratorParms)
+(wrapper dynamic-method) RimWorld.FactionGenerator:RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch0 (System.Collections.Generic.List`1<RimWorld.FactionDef>)
+RimWorld.Planet.WorldGenStep_Factions:GenerateFresh (string)
+RimWorld.Planet.WorldGenerator:GenerateWorld (single,string,RimWorld.Planet.OverallRainfall,RimWorld.Planet.OverallTemperature,RimWorld.Planet.OverallPopulation,System.Collections.Generic.List`1<RimWorld.FactionDef>,single)
+HugsLib.Quickstart.QuickstartController:ApplyQuickstartConfiguration ()
+HugsLib.Quickstart.QuickstartController/<>c:<InitiateMapGeneration>b__7_0 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Failed to generate a unique precept name: scrapping ritual at 50% uniqueness
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+RimWorld.Precept:GenerateNewName ()
+RimWorld.Precept:RegenerateName ()
+RimWorld.Precept_Ritual:Init (RimWorld.Ideo,RimWorld.FactionDef)
+(wrapper dynamic-method) RimWorld.Ideo:RimWorld.Ideo.AddPrecept_Patch1 (RimWorld.Ideo,RimWorld.Precept,bool,RimWorld.FactionDef,RimWorld.RitualPatternDef)
+RimWorld.IdeoFoundation:AddRitualsForMemes (System.Collections.Generic.List`1<RimWorld.MemeDef>,System.Collections.Generic.List`1<RimWorld.Precept>)
+RimWorld.IdeoFoundation:InitPrecepts (RimWorld.IdeoGenerationParms,System.Collections.Generic.List`1<RimWorld.Precept>)
+(wrapper dynamic-method) RimWorld.IdeoFoundation:RimWorld.IdeoFoundation.RandomizePrecepts_Patch1 (RimWorld.IdeoFoundation,bool,RimWorld.IdeoGenerationParms)
+RimWorld.IdeoFoundation_Deity:Init (RimWorld.IdeoGenerationParms)
+RimWorld.IdeoGenerator:GenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionIdeosTracker:ChooseOrGenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionGenerator:NewGeneratedFaction (RimWorld.FactionGeneratorParms)
+(wrapper dynamic-method) RimWorld.FactionGenerator:RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch0 (System.Collections.Generic.List`1<RimWorld.FactionDef>)
+RimWorld.Planet.WorldGenStep_Factions:GenerateFresh (string)
+RimWorld.Planet.WorldGenerator:GenerateWorld (single,string,RimWorld.Planet.OverallRainfall,RimWorld.Planet.OverallTemperature,RimWorld.Planet.OverallPopulation,System.Collections.Generic.List`1<RimWorld.FactionDef>,single)
+HugsLib.Quickstart.QuickstartController:ApplyQuickstartConfiguration ()
+HugsLib.Quickstart.QuickstartController/<>c:<InitiateMapGeneration>b__7_0 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Failed to generate a unique precept name: Requiem of Beastism at 50% uniqueness
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+RimWorld.Precept:GenerateNewName ()
+RimWorld.Precept:RegenerateName ()
+RimWorld.Precept_Ritual:Init (RimWorld.Ideo,RimWorld.FactionDef)
+RimWorld.IdeoFoundation/<>c__DisplayClass37_0:<InitPrecepts>g__AddAndInitPrecepts|0 ()
+RimWorld.IdeoFoundation:InitPrecepts (RimWorld.IdeoGenerationParms,System.Collections.Generic.List`1<RimWorld.Precept>)
+(wrapper dynamic-method) RimWorld.IdeoFoundation:RimWorld.IdeoFoundation.RandomizePrecepts_Patch1 (RimWorld.IdeoFoundation,bool,RimWorld.IdeoGenerationParms)
+RimWorld.IdeoFoundation_Deity:Init (RimWorld.IdeoGenerationParms)
+RimWorld.IdeoGenerator:GenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionIdeosTracker:ChooseOrGenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionGenerator:NewGeneratedFaction (RimWorld.FactionGeneratorParms)
+(wrapper dynamic-method) RimWorld.FactionGenerator:RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch0 (System.Collections.Generic.List`1<RimWorld.FactionDef>)
+RimWorld.Planet.WorldGenStep_Factions:GenerateFresh (string)
+RimWorld.Planet.WorldGenerator:GenerateWorld (single,string,RimWorld.Planet.OverallRainfall,RimWorld.Planet.OverallTemperature,RimWorld.Planet.OverallPopulation,System.Collections.Generic.List`1<RimWorld.FactionDef>,single)
+HugsLib.Quickstart.QuickstartController:ApplyQuickstartConfiguration ()
+HugsLib.Quickstart.QuickstartController/<>c:<InitiateMapGeneration>b__7_0 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Failed to generate a unique precept name:  at 0% uniqueness
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+RimWorld.Precept:GenerateNewName ()
+RimWorld.Precept:RegenerateName ()
+RimWorld.Precept_Ritual:Init (RimWorld.Ideo,RimWorld.FactionDef)
+(wrapper dynamic-method) RimWorld.Ideo:RimWorld.Ideo.AddPrecept_Patch1 (RimWorld.Ideo,RimWorld.Precept,bool,RimWorld.FactionDef,RimWorld.RitualPatternDef)
+AlphaMemes.FuneralFramework_IdeoFoundation_RandomizePrecepts:Postfix (RimWorld.IdeoFoundation,RimWorld.IdeoGenerationParms)
+(wrapper dynamic-method) RimWorld.IdeoFoundation:RimWorld.IdeoFoundation.RandomizePrecepts_Patch1 (RimWorld.IdeoFoundation,bool,RimWorld.IdeoGenerationParms)
+RimWorld.IdeoFoundation_Deity:Init (RimWorld.IdeoGenerationParms)
+RimWorld.IdeoGenerator:GenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionIdeosTracker:ChooseOrGenerateIdeo (RimWorld.IdeoGenerationParms)
+RimWorld.FactionGenerator:NewGeneratedFaction (RimWorld.FactionGeneratorParms)
+(wrapper dynamic-method) RimWorld.FactionGenerator:RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch0 (System.Collections.Generic.List`1<RimWorld.FactionDef>)
+RimWorld.Planet.WorldGenStep_Factions:GenerateFresh (string)
+RimWorld.Planet.WorldGenerator:GenerateWorld (single,string,RimWorld.Planet.OverallRainfall,RimWorld.Planet.OverallTemperature,RimWorld.Planet.OverallPopulation,System.Collections.Generic.List`1<RimWorld.FactionDef>,single)
+HugsLib.Quickstart.QuickstartController:ApplyQuickstartConfiguration ()
+HugsLib.Quickstart.QuickstartController/<>c:<InitiateMapGeneration>b__7_0 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Achtung v3.5.1.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+AchtungMod.World_FinalizeInit_Patch:Prefix ()
+(wrapper dynamic-method) RimWorld.Planet.World:RimWorld.Planet.World.FinalizeInit_Patch3 (RimWorld.Planet.World)
+RimWorld.Planet.WorldGenerator:GenerateWorld (single,string,RimWorld.Planet.OverallRainfall,RimWorld.Planet.OverallTemperature,RimWorld.Planet.OverallPopulation,System.Collections.Generic.List`1<RimWorld.FactionDef>,single)
+HugsLib.Quickstart.QuickstartController:ApplyQuickstartConfiguration ()
+HugsLib.Quickstart.QuickstartController/<>c:<InitiateMapGeneration>b__7_0 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - UnlimitedHugs.HugsLib
+  - void.charactereditor
+  - brrainz.achtung
+  - Nals.FacialAnimation
+  - roolo.AlmostThere
+  - roolo.RunAndGun
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VMemesE
+  - Sarg.AlphaMemes
+  - sarg.rimbees
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VChemfuelE
+  - Owlchemist.CleanPathfinding
+  - ComigoGames.Farming.Pots
+  - dracoix.doormat.r12a
+  - cgf1.gunsgalorecore
+  - cgf1.gunsgalore.americancivilwar.i
+  - Orion.Hospitality
+  - VanillaExpanded.VFECore
+  - Adamas.HospitalityCasino
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VFEArchitect
+  - OskarPotocki.VanillaFactionsExpanded.SettlersModule
+  - LWM.DeepStorage
+  - Mehni.PickUpAndHaul
+  - VanillaExpanded.VWE
+  - aRandomKiwi.RaidsForMe
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VTEXE.FacialAnims
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VAEAccessories
+  - Argon.SaltedMeatRemake
+  - scpchemfuel.appliances
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWEFT
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - PeteTimesSix.SimpleSidearms
+  - gomi.simplestairs
+  - weilbyte.snapout
+  - Orion.Therapy
+  - Jaxe.Bubbles
+  - JPT.speakup
+  - Scherub.StonecuttingExtended
+  - VanillaExpanded.VanillaBackstoriesExpanded
+  - OskarPotocki.VFE.Empire
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VPlantsEMore
+  - VanillaExpanded.VWENL
+  - sarg.alphagenes
+  - VanillaExpanded.VFEA
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch0 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+checking editor settings...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CharacterEditor.CEditor/b:a (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMapLoaded ()
+(wrapper dynamic-method) Verse.Map:Verse.Map.FinalizeInit_Patch3 (Verse.Map)
+(wrapper dynamic-method) Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch1 (Verse.IntVec3,RimWorld.Planet.MapParent,Verse.MapGeneratorDef,System.Collections.Generic.IEnumerable`1<Verse.GenStepWithParams>,System.Action`1<Verse.Map>)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch0 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+bodysizes genes are active
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+a8:a ()
+CharacterEditor.CEditor/b:a (bool,bool)
+CharacterEditor.CEditor:OnSettingsChanged (bool,bool)
+CharacterEditor.CEditor:OnMapLoaded ()
+(wrapper dynamic-method) Verse.Map:Verse.Map.FinalizeInit_Patch3 (Verse.Map)
+(wrapper dynamic-method) Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch1 (Verse.IntVec3,RimWorld.Planet.MapParent,Verse.MapGeneratorDef,System.Collections.Generic.IEnumerable`1<Verse.GenStepWithParams>,System.Action`1<Verse.Map>)
+(wrapper dynamic-method) Verse.Game:Verse.Game.InitNewGame_Patch0 (Verse.Game)
+Verse.Root_Play/<>c:<Start>b__1_2 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+The Red Turtle Rego are coming after 15.96908 days.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Hospitality.Utilities.GenericUtility:FillIncidentQueue (Verse.Map)
+Hospitality.Hospitality_MapComponent:MapComponentTick ()
+Verse.MapComponentUtility:MapComponentTick (Verse.Map)
+Verse.Map:MapPostTick ()
+(wrapper dynamic-method) Verse.TickManager:Verse.TickManager.DoSingleTick_Patch3 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+searching for compatible apparel in subpath=AbsolverArmor .. found=20 .. checking for matching entity=AbsolverArmor_Female
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+ae:a (Verse.Pawn,Verse.ThingDef,bool)
+ae:a (Verse.Pawn,RimWorld.Apparel,bool,bool)
+ae:a (Verse.Pawn,RimWorld.Apparel,bool)
+ae:a (Verse.Pawn,a4,RimWorld.Apparel&,bool)
+b:am ()
+g:c ()
+a9:b (UnityEngine.Rect,string,System.Action,string)
+g:DoWindowContents (UnityEngine.Rect)
+Verse.Window:InnerWindowOnGUI (int)
+UnityEngine.GUI:CallWindowDelegate (UnityEngine.GUI/WindowFunction,int,int,UnityEngine.GUISkin,int,single,single,UnityEngine.GUIStyle)
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception in UIRootUpdate: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at AchtungMod.Controller.<HandleDrawing>b__24_0 (AchtungMod.Colonist c) [0x00036] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Tools.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Controller.HandleDrawing () [0x00041] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix () [0x0000c] in <acd4b270995940af8a9e75157a107e67>:0 
+  at (wrapper dynamic-method) RimWorld.SelectionDrawer.RimWorld.SelectionDrawer.DrawSelectionOverlays_Patch1()
+  at RimWorld.MapInterface.MapInterfaceUpdate () [0x0001d] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+RimWorld.UIRoot_Play:UIRootUpdate ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception in UIRootUpdate: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at AchtungMod.Controller.<HandleDrawing>b__24_0 (AchtungMod.Colonist c) [0x00036] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Tools.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Controller.HandleDrawing () [0x00041] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix () [0x0000c] in <acd4b270995940af8a9e75157a107e67>:0 
+  at (wrapper dynamic-method) RimWorld.SelectionDrawer.RimWorld.SelectionDrawer.DrawSelectionOverlays_Patch1()
+  at RimWorld.MapInterface.MapInterfaceUpdate () [0x0001d] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+RimWorld.UIRoot_Play:UIRootUpdate ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception in UIRootUpdate: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at AchtungMod.Controller.<HandleDrawing>b__24_0 (AchtungMod.Colonist c) [0x00036] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Tools.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Controller.HandleDrawing () [0x00041] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix () [0x0000c] in <acd4b270995940af8a9e75157a107e67>:0 
+  at (wrapper dynamic-method) RimWorld.SelectionDrawer.RimWorld.SelectionDrawer.DrawSelectionOverlays_Patch1()
+  at RimWorld.MapInterface.MapInterfaceUpdate () [0x0001d] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+RimWorld.UIRoot_Play:UIRootUpdate ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception in UIRootUpdate: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at AchtungMod.Controller.<HandleDrawing>b__24_0 (AchtungMod.Colonist c) [0x00036] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Tools.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Controller.HandleDrawing () [0x00041] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix () [0x0000c] in <acd4b270995940af8a9e75157a107e67>:0 
+  at (wrapper dynamic-method) RimWorld.SelectionDrawer.RimWorld.SelectionDrawer.DrawSelectionOverlays_Patch1()
+  at RimWorld.MapInterface.MapInterfaceUpdate () [0x0001d] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+RimWorld.UIRoot_Play:UIRootUpdate ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception in UIRootUpdate: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at AchtungMod.Controller.<HandleDrawing>b__24_0 (AchtungMod.Colonist c) [0x00036] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Tools.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Controller.HandleDrawing () [0x00041] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix () [0x0000c] in <acd4b270995940af8a9e75157a107e67>:0 
+  at (wrapper dynamic-method) RimWorld.SelectionDrawer.RimWorld.SelectionDrawer.DrawSelectionOverlays_Patch1()
+  at RimWorld.MapInterface.MapInterfaceUpdate () [0x0001d] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+RimWorld.UIRoot_Play:UIRootUpdate ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception in UIRootUpdate: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at AchtungMod.Controller.<HandleDrawing>b__24_0 (AchtungMod.Colonist c) [0x00036] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Tools.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Controller.HandleDrawing () [0x00041] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix () [0x0000c] in <acd4b270995940af8a9e75157a107e67>:0 
+  at (wrapper dynamic-method) RimWorld.SelectionDrawer.RimWorld.SelectionDrawer.DrawSelectionOverlays_Patch1()
+  at RimWorld.MapInterface.MapInterfaceUpdate () [0x0001d] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+RimWorld.UIRoot_Play:UIRootUpdate ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception in UIRootUpdate: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at AchtungMod.Controller.<HandleDrawing>b__24_0 (AchtungMod.Colonist c) [0x00036] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Tools.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.Controller.HandleDrawing () [0x00041] in <acd4b270995940af8a9e75157a107e67>:0 
+  at AchtungMod.SelectionDrawer_DrawSelectionOverlays_Patch.Postfix () [0x0000c] in <acd4b270995940af8a9e75157a107e67>:0 
+  at (wrapper dynamic-method) RimWorld.SelectionDrawer.RimWorld.SelectionDrawer.DrawSelectionOverlays_Patch1()
+  at RimWorld.MapInterface.MapInterfaceUpdate () [0x0001d] in <95de19971c5d40878d8742747904cdcd>:0 
+  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+RimWorld.UIRoot_Play:UIRootUpdate ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x002de] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0023c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Reached max messages limit. Stopping logging to avoid spam.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.Log:Notify_MessageReceivedThreadedInternal (string,string,UnityEngine.LogType)
+UnityEngine.Application:CallLogCallback (string,string,UnityEngine.LogType,bool)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
+
+Exception drawing Gates: System.MissingMethodException: Verse.Rot4 Verse.Rot4.get_North()
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.DrawEquipmentAiming_Patch5(Verse.PawnRenderer,Verse.Thing,UnityEngine.Vector3,single)
+  at Verse.PawnRenderer.DrawEquipment (UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0023c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.PawnRenderer.DrawDynamicParts (UnityEngine.Vector3 rootLoc, System.Single angle, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags) [0x0000c] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnInternal_Patch2(Verse.PawnRenderer,UnityEngine.Vector3,single,bool,Verse.Rot4,Verse.RotDrawMode,Verse.PawnRenderFlags)
+  at (wrapper dynamic-method) Verse.PawnRenderer.Verse.PawnRenderer.RenderPawnAt_Patch1(Verse.PawnRenderer,UnityEngine.Vector3,System.Nullable`1<Verse.Rot4>,bool)
+  at Verse.Pawn_DrawTracker.DrawAt (UnityEngine.Vector3 loc) [0x00000] in <95de19971c5d40878d8742747904cdcd>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.DrawAt_Patch1(Verse.Pawn,UnityEngine.Vector3,bool)
+  at Verse.Thing.Draw () [0x00015] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.ThingWithComps.Draw () [0x0000e] in <95de19971c5d40878d8742747904cdcd>:0 
+  at Verse.DynamicDrawManager.DrawDynamicThings () [0x000d8] in <95de19971c5d40878d8742747904cdcd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.DynamicDrawManager:DrawDynamicThings ()
+Verse.Map:MapUpdate ()
+Verse.Game:UpdatePlay ()
+Verse.Root_Play:Update ()
